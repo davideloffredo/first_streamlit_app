@@ -1,7 +1,6 @@
 import streamlit
 
-streamlit.title('WE WE Sono tornato :-D ')
-
-streamlit.header('E si head')
-
-streamlit.text('E ora pure il testo')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
