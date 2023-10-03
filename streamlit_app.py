@@ -3,6 +3,7 @@ import pandas
 import requests
 import snowflake.connector
 
+
 streamlit.header('Breakfast favorites')
 
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
